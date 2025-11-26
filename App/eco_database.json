@@ -1,0 +1,73 @@
+{
+  "plastic": {
+    "decomposition": "400–500 years",
+    "impact_level": "High",
+    "harm": "Plastic breaks down into microplastics that pollute soil, water, and enter the food chain. It releases toxic chemicals during degradation and harms marine life.",
+    "emissions": "Produces greenhouse gases during production and when burned.",
+    "recycling_fact": "Most plastic can be recycled, but globally only about 9% actually is.",
+    "tips": [
+      "Avoid single-use plastic products whenever possible.",
+      "Carry reusable bottles, bags, and containers.",
+      "Choose compostable or biodegradable alternatives.",
+      "Properly clean and sort plastic before recycling to avoid contamination."
+    ],
+    "description": "Plastic waste is one of the most persistent pollutants and remains in the environment for centuries."
+  },
+
+  "glass": {
+    "decomposition": "Up to 1 million years",
+    "impact_level": "Medium",
+    "harm": "Glass does not break down naturally and can cause physical harm to humans and wildlife. Glass production requires high energy and emits CO₂.",
+    "emissions": "High energy consumption during production.",
+    "recycling_fact": "Glass is 100% recyclable and can be recycled endlessly without losing quality.",
+    "tips": [
+      "Reuse jars and bottles for storage or decoration.",
+      "Do not mix broken glass with regular recycling unless your city accepts it.",
+      "Return glass bottles to collection centers where available."
+    ],
+    "description": "Though recyclable, glass has an extremely long decomposition time and high carbon footprint during manufacturing."
+  },
+
+  "paper": {
+    "decomposition": "2–6 weeks",
+    "impact_level": "Low–Medium",
+    "harm": "Paper waste is biodegradable but contributes to deforestation and increases landfill volume when not recycled.",
+    "emissions": "Lower emissions than plastic or metal, but still significant during production.",
+    "recycling_fact": "Recycling 1 ton of paper saves 17 trees and 7,000 gallons of water.",
+    "tips": [
+      "Prefer digital documents over printing.",
+      "Recycle newspapers, notebooks, and cartons.",
+      "Reuse old paper for notes or crafts before discarding.",
+      "Buy recycled paper products whenever possible."
+    ],
+    "description": "Paper decomposes quickly but its production requires trees, water, and energy."
+  },
+
+  "metal": {
+    "decomposition": "50–200 years",
+    "impact_level": "Medium",
+    "harm": "Mining for metals damages ecosystems, causes land erosion, and consumes large amounts of energy. Improper disposal can lead to rust contamination.",
+    "emissions": "High energy usage and air pollution during metal extraction and smelting.",
+    "recycling_fact": "Recycling aluminum saves up to 95% of the energy required to produce new aluminum.",
+    "tips": [
+      "Always recycle cans, tins, and metal containers.",
+      "Reuse metal jars or boxes for storage.",
+      "Support brands that use recycled metal packaging."
+    ],
+    "description": "Metal is long-lasting and valuable, and recycling it drastically reduces environmental damage."
+  },
+
+  "cardboard": {
+    "decomposition": "1–2 months",
+    "impact_level": "Low",
+    "harm": "Cardboard decomposes naturally, but when left in landfills without oxygen, it releases methane—a potent greenhouse gas.",
+    "emissions": "Moderate during production but low during recycling.",
+    "recycling_fact": "Cardboard can be recycled up to 7 times before fibers weaken.",
+    "tips": [
+      "Flatten boxes before recycling to save space.",
+      "Keep cardboard dry and clean—wet cardboard cannot be recycled.",
+      "Reuse boxes for storage, crafts, or shipping before discarding."
+    ],
+    "description": "Cardboard is one of the most eco-friendly packaging materials due to high recyclability."
+  }
+}

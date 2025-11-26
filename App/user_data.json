@@ -1,0 +1,43 @@
+{
+  "total_points": 82,
+  "total_scans": 5,
+  "today_scans": 5,
+  "last_scan_date": "2025-11-26",
+  "streak_days": 1,
+  "badges": [
+    "First Scan",
+    "Eco Beginner"
+  ],
+  "scan_history": [
+    {
+      "date": "2025-11-26",
+      "class_name": "Other plastic wrapper",
+      "confidence": 38.04,
+      "points": 13
+    },
+    {
+      "date": "2025-11-26",
+      "class_name": "glass",
+      "confidence": 60.41,
+      "points": 16
+    },
+    {
+      "date": "2025-11-26",
+      "class_name": "plastic",
+      "confidence": 93.85,
+      "points": 19
+    },
+    {
+      "date": "2025-11-26",
+      "class_name": "plastic",
+      "confidence": 71.77,
+      "points": 17
+    },
+    {
+      "date": "2025-11-26",
+      "class_name": "plastic",
+      "confidence": 77.94,
+      "points": 17
+    }
+  ]
+}

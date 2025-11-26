@@ -1,0 +1,76 @@
+{
+  "plastic": [
+    {
+      "title": "DIY Planter Pot",
+      "description": "Cut a plastic bottle in half, smooth the edges, and decorate it with natural colors or jute rope. It becomes a durable plant pot that promotes home gardening."
+    },
+    {
+      "title": "Plastic Bottle Desk Organizer",
+      "description": "Use the bottom halves of bottles to store pens, clips, and small stationery items. Attach them to cardboard for a multi-slot mini organizer."
+    },
+    {
+      "title": "Eco-Friendly Watering Can",
+      "description": "Reuse a large plastic bottle by poking small holes in the cap. It works as a lightweight watering can for indoor plants."
+    }
+  ],
+
+  "glass": [
+    {
+      "title": "Ambient Candle Holder",
+      "description": "Clean a glass jar, wrap it with jute rope or paint simple patterns, and place a candle inside to create a warm decorative candle holder."
+    },
+    {
+      "title": "Herb Storage Jar",
+      "description": "Transform old glass jars into kitchen storage for herbs, spices, or dry snacks by labeling and sealing them properly."
+    },
+    {
+      "title": "Mini Terrarium",
+      "description": "Use a transparent glass jar to build a small terrarium with soil, pebbles, and a tiny succulent or moss."
+    }
+  ],
+
+  "paper": [
+    {
+      "title": "Handmade Eco Notepad",
+      "description": "Bind unused one-side blank papers together to create a small pocket notepad for daily to-do lists or rough work."
+    },
+    {
+      "title": "Decorative Paper Flowers",
+      "description": "Reuse colored or printed waste paper to make beautiful origami flowers that can be used as wall décor."
+    },
+    {
+      "title": "Seed Paper",
+      "description": "Blend old paper with water, mix natural seeds, and press it into thin sheets. Once dry, it can be planted to grow herbs or flowers."
+    }
+  ],
+
+  "metal": [
+    {
+      "title": "Metal Can Pen Holder",
+      "description": "Clean and smooth an old metal can, paint it creatively, and use it as a sturdy pen or brush holder for your study desk."
+    },
+    {
+      "title": "Mini Plant Pot",
+      "description": "Repurpose steel or tin cans as small planters for herbs and succulents, adding holes at the bottom for drainage."
+    },
+    {
+      "title": "Tool Organizer",
+      "description": "Mount metal cans on a wooden board to create a wall-hanging organizer for storing small tools, screws, and household items."
+    }
+  ],
+
+  "cardboard": [
+    {
+      "title": "DIY Drawer Organizer",
+      "description": "Cut cardboard into different-sized partitions and arrange them inside a drawer to neatly sort stationery or accessories."
+    },
+    {
+      "title": "Smartphone Stand",
+      "description": "Make a simple phone stand using layered cardboard pieces with a small slot for holding the mobile at an angle."
+    },
+    {
+      "title": "Eco-Friendly Gift Box",
+      "description": "Reuse thick cardboard sheets to craft gift boxes that can be decorated using cloth or paper scraps."
+    }
+  ]
+}
