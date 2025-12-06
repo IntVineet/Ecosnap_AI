@@ -160,16 +160,20 @@ datasets/
 
 A separate dataset repo README can also be generated upon request.
 
-### 🖼 Screenshots (Add your real screenshots later)
-🏠 Home Page
+### 🖼 Screenshots 
+#### 🏠 Home Page
+<img width="1679" height="961" alt="Screenshot 2025-12-06 at 5 49 17 PM" src="https://github.com/user-attachments/assets/a1830851-b578-4b6f-93b5-44e44f915e45" />
 
-🔍 Detection Page
+#### 🔍 Detection Page
+<img width="1680" height="806" alt="Screenshot 2025-12-06 at 5 51 45 PM" src="https://github.com/user-attachments/assets/5b5ad444-d209-46f3-bb02-c7e5c2d211f1" />
 
-📸 Camera Capture
+<img width="1680" height="573" alt="Screenshot 2025-12-06 at 5 50 17 PM" src="https://github.com/user-attachments/assets/e733009e-6740-44a7-95fe-429396052881" />
 
-📊 Dashboard
+#### 📊 Dashboard
+<img width="1680" height="961" alt="Screenshot 2025-12-06 at 5 52 41 PM" src="https://github.com/user-attachments/assets/42bd4356-9090-42c2-aa11-cecc3b6d9519" />
 
-🤖 Eco Chat
+#### 🤖 Eco Chat
+<img width="1675" height="923" alt="Screenshot 2025-12-06 at 5 54 43 PM" src="https://github.com/user-attachments/assets/ef88dfc1-9b8d-42e2-8d14-b0d0b0f28a96" />
 
 
 ### 🌍 Why EcoSnap Matters
@@ -187,6 +191,7 @@ Wildlife
 EcoSnap helps people:
 
 Learn environmental impact
+
 
 Improve waste sorting habits
 
