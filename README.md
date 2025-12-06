@@ -1,8 +1,8 @@
-#🌿 EcoSnap – AI Waste Detection & Eco Assistant
+# 🌿 EcoSnap – AI Waste Detection & Eco Assistant
 Snap → Learn → Reuse → Save the Planet
 An AI-powered system to classify waste, learn environmental impact, get recycling tips, earn eco-points, and chat with an eco assistant — all in one app.
 
-#📌 Overview
+# 📌 Overview
 
 EcoSnap is a full-stack AI project that turns your device into a real-time eco-coach.
 Using a TensorFlow CNN model, camera detection, and Groq LLaMA-3.3, the app identifies waste items and instantly provides:
@@ -25,8 +25,8 @@ AI-powered eco chat
 
 EcoSnap promotes practical environmental awareness through fast AI detection and fun gamification 🌍💚.
 
-#✨ Features
-🧪 1. Smart AI Waste Detection
+# ✨ Features
+### 🧪 1. Smart AI Waste Detection
 
 ✔ Upload photo
 ✔ Capture via live camera
@@ -34,7 +34,7 @@ EcoSnap promotes practical environmental awareness through fast AI detection and
 ✔ Instant classification
 ✔ Confidence score
 
-🌱 2. Environmental Knowledge Lookup
+### 🌱 2. Environmental Knowledge Lookup
 
 For every detected item, the app shows:
 
@@ -44,7 +44,7 @@ For every detected item, the app shows:
 ♻ Recycling Tips
 🎨 Upcycle Ideas
 
-🤖 3. Eco Chat Assistant (Groq AI)
+### 🤖 3. Eco Chat Assistant (Groq AI)
 
 Ask anything related to:
 
@@ -58,7 +58,7 @@ Eco-friendly lifestyle
 
 Uses Groq LLaMA-3.3-70B for ultra-fast responses.
 
-🎮 4. Gamification
+### 🎮 4. Gamification
 
 Earn points for every scan!
 
@@ -76,7 +76,7 @@ Level progression
 
 Scan history
 
-📊 5. User Dashboard
+### 📊 5. User Dashboard
 
 Includes:
 
@@ -94,7 +94,7 @@ Recent 10 scans
 
 Achievements
 
-#📂 Project Structure
+#### 📂 Project Structure
 ecosnap-app/
 │
 ├── app.py                     # Main Streamlit app
@@ -113,7 +113,7 @@ ecosnap-app/
 │
 └── README.md
 
-#🛠 Installation Guide
+### 🛠 Installation Guide
 1. Clone Repository
 git clone https://github.com/YOUR_USERNAME/ecosnap-app.git
 cd ecosnap-app
@@ -138,7 +138,7 @@ streamlit run app.py
 
 
 
-#🧠 Model Information
+### 🧠 Model Information
 Property	Details
 Framework	TensorFlow / Keras
 Input Size	224×224
@@ -146,7 +146,7 @@ Dataset	TACO + Custom Waste Dataset
 Output	Softmax classification
 Model File	waste_model_merged.keras
 
-#💾 Datasets
+### 💾 Datasets
 
 You can upload your dataset repo separately. Recommended structure:
 
@@ -160,7 +160,7 @@ datasets/
 
 A separate dataset repo README can also be generated upon request.
 
-#🖼 Screenshots (Add your real screenshots later)
+### 🖼 Screenshots (Add your real screenshots later)
 🏠 Home Page
 
 🔍 Detection Page
@@ -171,7 +171,8 @@ A separate dataset repo README can also be generated upon request.
 
 🤖 Eco Chat
 
-🌍 Why EcoSnap Matters
+
+### 🌍 Why EcoSnap Matters
 
 Waste mismanagement harms our:
 
@@ -195,26 +196,10 @@ Adopt eco-friendly lifestyles
 
 Technology for a better future 🌎💚
 
-#🤝 Contributing
 
-Pull requests are welcome!
-For major changes:
-
-Open an issue
-
-Discuss proposed changes
-
-Submit PR
-
-📄 License
-
-MIT License – Free for personal & academic use.
-
-#👨‍💻 Developer
+## 👨‍💻 Developer
 
 Vineet Kumar
 B.Tech CSE – GLA University
 AI • Sustainability • Full-Stack Development
 
-💬 Want improvements? Just ask!
-⭐ If you like this project, please give it a star on GitHub. ⭐
